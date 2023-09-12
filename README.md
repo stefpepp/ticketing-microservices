@@ -1,4 +1,4 @@
-* before using code, fix vulnerabilities that were reported by github
+* Before using code, fix vulnerabilities that were reported by github
 * ticketing
 Educational repository to follow microservices course
 
